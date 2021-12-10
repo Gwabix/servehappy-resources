@@ -34,6 +34,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [liquidweb](https://www.liquidweb.com/kb/how-to-upgrade-apache-and-php-using-cpanels-easyapache/)
 * [MediaTemple](https://mediatemple.net/community/products/dv/207889153/what's-new-in-php-7)
 * [NameCheap](https://www.namecheap.com/support/knowledgebase/article.aspx/9417/2219/how-to-change-php-version-and-update-php-extensions-on-shared-servers)
+* [OVH](https://docs.ovh.com/fr/hosting/configurer-le-php-sur-son-hebergement-web-mutu-2014/)
 * [One](https://www.one.com/en/support/faq/what-should-i-check-when-upgrading-php)
 * [Pagely](https://support.pagely.com/hc/en-us/articles/115000013092-Changing-PHP-Versions)
 * [Pantheon](https://pantheon.io/docs/php-versions/)
@@ -45,4 +46,4 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [TSOHOST](https://www.tsohost.com/knowledge-base/article/987/how-to-upgrade-your-sites-php-version)
 * [Vultr](https://www.vultr.com/docs/upgrade-to-php-7-on-the-vultr-wordpress-app)
 * [WebFaction](https://docs.webfaction.com/software/php.html?highlight=php%20version#upgrade-to-another-php-version)
-* [WP Engine](https://wpengine.com/support/php-7-faq/)
+* [WP Engine](https://wpengine.com/support/php-guide/)
